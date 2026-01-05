@@ -136,7 +136,7 @@ footer { background: #E5E9EB; padding: 50px 0; font-size: 12px; }
 .boxBtn { display: inline-block; padding: 10px; border: 1px solid #9b9b9b; margin: 6px 0; font-size: 14px; }
 
 
-.footer_menu { border-left: 1px solid #707374; border-right: 1px solid #707374; padding-left: 30px; }
+.footer_menu { border-left: 1px solid #c2c6c7; border-right: 1px solid #c2c6c7; padding-left: 30px; }
 .footer_menu ul { display: grid; grid-template-columns: 1fr 1fr; gap:20px 10px; }
 .footer_menu a:hover, .address p a:hover { text-decoration: underline; }
 
